@@ -20,7 +20,7 @@ Destina is an AI-powered travel guide that helps you explore destinations worldw
 ### Travel Recommendations
 ![Recommendations](screenshots/recommendations.jpg)
 
-###  Map Assistsnce
+###  Map Assistance
 ![Map assistance](screenshots/map.jpg)
 
 ##  Technologies Used
@@ -30,5 +30,3 @@ Destina is an AI-powered travel guide that helps you explore destinations worldw
 - **Google Gemini AI** (for travel recommendations)
 - **Google Maps API** (for location links)
 
-##  Deployment
-To deploy Destina on a cloud platform, you can use **Streamlit Cloud**, **Render**, or **Heroku**.
