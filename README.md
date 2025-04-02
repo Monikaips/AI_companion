@@ -1,4 +1,4 @@
-# 🌍 Destina - Your AI Travel Companion
+#  Destina - Your AI Travel Companion
 
 Destina is an AI-powered travel guide that helps you explore destinations worldwide. Get instant insights about cities, famous places, local foods, malls, and restaurants, all in one place!
 
@@ -12,23 +12,23 @@ Destina is an AI-powered travel guide that helps you explore destinations worldw
 ## 📸 Screenshots
 
 ### Home Page
-![Destina Home Page](screenshots/homepage.png)
+![Destina Home Page](screenshots/homepage.jpg)
 
 ### City Search Example
-![City Search](screenshots/city-search.png)
+![City Search](screenshots/city-search.jpg)
 
 ### Travel Recommendations
-![Recommendations](screenshots/recommendations.png)
+![Recommendations](screenshots/recommendations.jpg)
 
 ###  Map Assistsnce
-![Map assistance](screenshots/map.png)
+![Map assistance](screenshots/map.jpg)
 
-## 🌟 Technologies Used
+##  Technologies Used
 - **Python**
 - **Streamlit** (for UI)
 - **Wikipedia API** (for city descriptions)
 - **Google Gemini AI** (for travel recommendations)
 - **Google Maps API** (for location links)
 
-## 🏗️ Deployment
+##  Deployment
 To deploy Destina on a cloud platform, you can use **Streamlit Cloud**, **Render**, or **Heroku**.
